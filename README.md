@@ -9,7 +9,7 @@ This is a report done as part of the [Microsoft Power BI Desktop for Business In
 
 <img src="page2PBI.png" alt="Page 2" style="height: 600px; width:1000px;"/>
 
-<img src="page3PBI.png" alt="Page 2" style="height: 600px; width:1000px;"/>
+<img src="page3PBI.PNG" alt="Page 2" style="height: 600px; width:1000px;"/>
 
 ## Maven Market Report
 
